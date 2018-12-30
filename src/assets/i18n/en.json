@@ -10,15 +10,8 @@
     "Submenu": "Submenu",
     "Blank Page": "Blank Page",
     "More Theme": "More Themes",
-    "Download Now": "Download Now",
     "Language": "Language",
     "English": "English",
-    "French": "French",
-    "Urdu": "Urdu",
-    "Spanish": "Spanish",
-    "Italian": "Italian",
-    "Farsi": "Farsi",
-    "German": "German",
     "Simplified Chinese": "Simplified Chinese",
     "Search": "Search",
     "Settings": "Settings",
@@ -28,5 +21,10 @@
     "Pending Task": "Pending Task",
     "In queue": "In queue",
     "Mail": "Mail",
-    "View All": "View All"
+    "View All": "View All",
+    "Username": "Username",
+    "Password": "Password",
+    "Remember me": "Remember me",
+    "Forget Password": "Forget Password",
+    "Login": "Login"
 }

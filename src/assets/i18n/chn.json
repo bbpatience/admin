@@ -10,15 +10,8 @@
     "Submenu": "子菜单",
     "Blank Page": "空白页",
     "More Theme": "更多主题",
-    "Download Now": "现在下载",
     "Language": "语言",
     "English": "英文",
-    "French": "法文",
-    "Urdu": "Urdu",
-    "Spanish": "西班牙文",
-    "Italian": "意大利文",
-    "Farsi": "Farsi",
-    "German": "德文",
     "Simplified Chinese": "简体中文",
     "Search": "搜索",
     "Settings": "设置",
@@ -28,5 +21,10 @@
     "Pending Task": "待处理任务",
     "In queue": "队列中",
     "Mail": "邮件",
-    "View All": "查看所有"
+    "View All": "查看所有",
+    "Username": "用户名",
+    "Password": "密码",
+    "Remember Me": "记住我",
+    "Forget Password": "忘记密码",
+    "Login": "登录"
 }
