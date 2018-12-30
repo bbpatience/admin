@@ -1,6 +1,6 @@
 {
-    "name": "sb-admin-material",
-    "version": "7.0.0",
+    "name": "walle-admin",
+    "version": "0.0.1",
     "scripts": {
         "ng": "ng",
         "start": "ng serve --progress",
