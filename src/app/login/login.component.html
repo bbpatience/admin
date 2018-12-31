@@ -1,21 +1,20 @@
 <div class="login-page">
     <div class="content">
-        <!-- <h1 class="app-name">Sb Admin Material</h1> -->
-        <form class="login-form" fxFlex  >
+        <form class="login-form" fxFlex >
             <div class="text-center">
                 <h2 class="app-name">{{ 'Walle Education' | translate }}</h2>
             </div>
             <div fxFlex  fxlayout="row" fxlayout.lt-md="column">
                 <div fxFlexFill>
                     <mat-form-field class="w-100">
-                        <input matInput [placeholder]="'Username' | translate">
+                        <input matInput [placeholder]="'Username' | translate" required>
                     </mat-form-field>
                 </div>
             </div>
             <div fxFlex  fxLayout="row" fxLayout.lt-md="column">
                 <div fxFlexFill>
                     <mat-form-field class="w-100">
-                        <input matInput type="password" [placeholder]="'Password' | translate">
+                        <input matInput type="password" [placeholder]="'Password' | translate" required>
                     </mat-form-field>
                 </div>
             </div>
